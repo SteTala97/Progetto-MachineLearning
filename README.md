@@ -1,4 +1,4 @@
-## Progetto d'esame per il corso di Machine Learning per l'appello di Febbraio 2021 🛰
+# Progetto d'esame per il corso di Machine Learning per l'appello di Febbraio 2021 🛰
 
 Nel file "Relazione.pdf" vi sono tutte le informazioni riguardo a:
 - obbiettivo del progetto;
